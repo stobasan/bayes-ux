@@ -1,0 +1,20 @@
+[
+    {
+        "id": 45,
+        "name": "Star Series 2019",
+        "date_start": "2019-01-01",
+        "date_end": "2019-06-31"
+    },
+    {
+        "id": 12,
+        "name": "Warriors Series 2019",
+        "date_start": "2019-01-01",
+        "date_end": "2019-04-30"
+    },
+    {
+        "id": 17,
+        "name": "Moon Series 2019",
+        "date_start": "2019-07-01",
+        "date_end": "2019-12-30"
+    }
+]
