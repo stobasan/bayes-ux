@@ -2,7 +2,7 @@
   "name": "bayes-ux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://stobasan.github.io/bayes-ux",
+  "homepage": "https://stobasan.github.io/bayes-ux/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
