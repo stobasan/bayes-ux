@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bayes-ux/static/css/main.d44430c8.chunk.css",
+    "main.js": "/bayes-ux/static/js/main.d054ebd9.chunk.js",
+    "main.js.map": "/bayes-ux/static/js/main.d054ebd9.chunk.js.map",
+    "runtime~main.js": "/bayes-ux/static/js/runtime~main.5a59bb27.js",
+    "runtime~main.js.map": "/bayes-ux/static/js/runtime~main.5a59bb27.js.map",
+    "static/js/2.baba7ba9.chunk.js": "/bayes-ux/static/js/2.baba7ba9.chunk.js",
+    "static/js/2.baba7ba9.chunk.js.map": "/bayes-ux/static/js/2.baba7ba9.chunk.js.map",
+    "index.html": "/bayes-ux/index.html",
+    "precache-manifest.2281403a5b1e43539e5328e638c4ee7b.js": "/bayes-ux/precache-manifest.2281403a5b1e43539e5328e638c4ee7b.js",
+    "service-worker.js": "/bayes-ux/service-worker.js",
+    "static/css/main.d44430c8.chunk.css.map": "/bayes-ux/static/css/main.d44430c8.chunk.css.map",
+    "static/media/App.css": "/bayes-ux/static/media/tournamentsOptimized.790e8c12.jpg"
+  }
+}
