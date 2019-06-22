@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd40f9638c43bec38c338efe935b6e0f",
+    "revision": "915f1e33102d24a548f4e692b6d84392",
     "url": "/bayes-ux/index.html"
   },
   {
-    "revision": "ab8b1d11dba33a5557e4",
+    "revision": "c49311bfa353429b2102",
     "url": "/bayes-ux/static/css/main.d44430c8.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bayes-ux/static/js/2.baba7ba9.chunk.js"
   },
   {
-    "revision": "ab8b1d11dba33a5557e4",
-    "url": "/bayes-ux/static/js/main.d054ebd9.chunk.js"
+    "revision": "c49311bfa353429b2102",
+    "url": "/bayes-ux/static/js/main.30f21eb5.chunk.js"
   },
   {
     "revision": "7aff8670c8a1c50a9caa",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bayes-ux/precache-manifest.2281403a5b1e43539e5328e638c4ee7b.js"
+  "/bayes-ux/precache-manifest.fa375ac977effe8983f86c9607211c2f.js"
 );
 
 self.addEventListener('message', (event) => {
